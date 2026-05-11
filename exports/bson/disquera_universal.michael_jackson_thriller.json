@@ -1,0 +1,77 @@
+[{
+  "_id": "mj_th_01",
+  "titulo": "Wanna Be Startin' Somethin'",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 363,
+  "numero_pista": 1,
+  "popularidad": 91
+},
+{
+  "_id": "mj_th_02",
+  "titulo": "Beat It",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 258,
+  "numero_pista": 2,
+  "popularidad": 99
+},
+{
+  "_id": "mj_th_03",
+  "titulo": "Billie Jean",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 294,
+  "numero_pista": 3,
+  "popularidad": 100
+},
+{
+  "_id": "mj_th_04",
+  "titulo": "Thriller",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 358,
+  "numero_pista": 4,
+  "popularidad": 100
+},
+{
+  "_id": "mj_th_05",
+  "titulo": "Human Nature",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 246,
+  "numero_pista": 5,
+  "popularidad": 88
+},
+{
+  "_id": "mj_th_06",
+  "titulo": "P.Y.T. (Pretty Young Thing)",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 239,
+  "numero_pista": 6,
+  "popularidad": 87
+},
+{
+  "_id": "mj_th_07",
+  "titulo": "The Girl Is Mine",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Pop",
+  "duracion_seg": 222,
+  "numero_pista": 7,
+  "popularidad": 82
+}]

@@ -1,0 +1,8 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+dd_dncmg_01,De Nuevo con Mi Gente,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,215,1,94
+dd_dncmg_02,El Carnaval,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,228,2,89
+dd_dncmg_03,La Cañaguatera,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,198,3,97
+dd_dncmg_04,Mi Primera Cana,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,195,4,85
+dd_dncmg_05,Ausencia Sentimental,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,221,5,88
+dd_dncmg_06,A mis Viejos,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,210,6,91
+dd_dncmg_07,Tres Canciones,1988,Diomedes Díaz,images/diomedes_diaz_de_nuevo_con_mi_gente.jpg,Vallenato,207,7,82

@@ -1,0 +1,8 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+bts_ms7_01,Intro: Persona,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,213,1,90
+bts_ms7_02,Boy With Luv,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,229,2,98
+bts_ms7_03,Make It Right,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,225,3,87
+bts_ms7_04,Filter,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,213,4,89
+bts_ms7_05,Black Swan,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,231,5,93
+bts_ms7_06,ON,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,247,6,96
+bts_ms7_07,Ego,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,203,7,85

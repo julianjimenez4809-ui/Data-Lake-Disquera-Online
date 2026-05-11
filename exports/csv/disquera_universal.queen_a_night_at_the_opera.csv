@@ -1,0 +1,8 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+qu_anao_01,Bohemian Rhapsody,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,354,1,100
+qu_anao_02,You're My Best Friend,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,170,2,90
+qu_anao_03,Love of My Life,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,212,3,94
+qu_anao_04,'39,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,208,4,83
+qu_anao_05,Sweet Lady,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,230,5,78
+qu_anao_06,Death on Two Legs,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,228,6,80
+qu_anao_07,I'm in Love with My Car,1975,Queen,images/queen_a_night_at_the_opera.jpg,Rock,184,7,77

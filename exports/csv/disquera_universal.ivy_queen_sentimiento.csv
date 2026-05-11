@@ -1,0 +1,8 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+iq_se_01,Yo Quiero Bailar,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,222,1,96
+iq_se_02,Cuentas Claras,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,215,2,88
+iq_se_03,"Te He Querido, Te He Llorado",2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,234,3,85
+iq_se_04,Dime,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,208,4,82
+iq_se_05,Quiero Más,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,219,5,80
+iq_se_06,Sentimiento,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,241,6,83
+iq_se_07,Noche de Reyes,2003,Ivy Queen,images/ivy_queen_sentimiento.jpg,Reggaeton,227,7,78
