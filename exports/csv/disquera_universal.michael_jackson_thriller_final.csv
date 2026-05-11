@@ -1,0 +1,8 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+mj_th_01,Wanna Be Startin' Somethin',1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,363,1,91
+mj_th_02,Beat It,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,258,2,99
+mj_th_03,Billie Jean,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,294,3,100
+mj_th_04,Thriller,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,358,4,100
+mj_th_05,Human Nature,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,246,5,88
+mj_th_06,P.Y.T. (Pretty Young Thing),1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,239,6,87
+mj_th_07,The Girl Is Mine,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Pop,222,7,82
