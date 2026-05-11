@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "iq_se_08",
+    "titulo": "Que Lloren",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 198,
+    "numero_pista": 8,
+    "popularidad": 61
+  },
+  {
+    "_id": "iq_se_09",
+    "titulo": "Tuya Soy",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 214,
+    "numero_pista": 9,
+    "popularidad": 58
+  },
+  {
+    "_id": "iq_se_10",
+    "titulo": "Pa' que la Pases Bien",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 207,
+    "numero_pista": 10,
+    "popularidad": 55
+  }
+]

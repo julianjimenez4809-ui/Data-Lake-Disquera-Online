@@ -1,0 +1,110 @@
+[{
+  "_id": "bts_ms7_01",
+  "titulo": "Intro: Persona",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 213,
+  "numero_pista": 1,
+  "popularidad": 90
+},
+{
+  "_id": "bts_ms7_02",
+  "titulo": "Boy With Luv",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 229,
+  "numero_pista": 2,
+  "popularidad": 98
+},
+{
+  "_id": "bts_ms7_03",
+  "titulo": "Make It Right",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 225,
+  "numero_pista": 3,
+  "popularidad": 87
+},
+{
+  "_id": "bts_ms7_04",
+  "titulo": "Filter",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 213,
+  "numero_pista": 4,
+  "popularidad": 89
+},
+{
+  "_id": "bts_ms7_05",
+  "titulo": "Black Swan",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 231,
+  "numero_pista": 5,
+  "popularidad": 93
+},
+{
+  "_id": "bts_ms7_06",
+  "titulo": "ON",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 247,
+  "numero_pista": 6,
+  "popularidad": 96
+},
+{
+  "_id": "bts_ms7_07",
+  "titulo": "Ego",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 203,
+  "numero_pista": 7,
+  "popularidad": 85
+},
+{
+  "_id": "bts_ms7_08",
+  "titulo": "Moon",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 196,
+  "numero_pista": 8,
+  "popularidad": 72
+},
+{
+  "_id": "bts_ms7_09",
+  "titulo": "Respect",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 189,
+  "numero_pista": 9,
+  "popularidad": 68
+},
+{
+  "_id": "bts_ms7_10",
+  "titulo": "We are Bulletproof: the Eternal",
+  "anio_salida": 2020,
+  "autor": "BTS",
+  "id_imagen_portada": "images/bts_map_of_the_soul_7.jpg",
+  "genero": "K-Pop",
+  "duracion_seg": 222,
+  "numero_pista": 10,
+  "popularidad": 74
+}]

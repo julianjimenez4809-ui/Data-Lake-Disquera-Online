@@ -1,0 +1,110 @@
+[{
+  "_id": "lg_tf_01",
+  "titulo": "Just Dance",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 241,
+  "numero_pista": 1,
+  "popularidad": 95
+},
+{
+  "_id": "lg_tf_02",
+  "titulo": "LoveGame",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 200,
+  "numero_pista": 2,
+  "popularidad": 88
+},
+{
+  "_id": "lg_tf_03",
+  "titulo": "Paparazzi",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 214,
+  "numero_pista": 3,
+  "popularidad": 93
+},
+{
+  "_id": "lg_tf_04",
+  "titulo": "Poker Face",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 238,
+  "numero_pista": 4,
+  "popularidad": 99
+},
+{
+  "_id": "lg_tf_05",
+  "titulo": "Eh Eh (Nothing Else I Can Say)",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 193,
+  "numero_pista": 5,
+  "popularidad": 80
+},
+{
+  "_id": "lg_tf_06",
+  "titulo": "Beautiful Dirty Rich",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 181,
+  "numero_pista": 6,
+  "popularidad": 79
+},
+{
+  "_id": "lg_tf_07",
+  "titulo": "The Fame",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 188,
+  "numero_pista": 7,
+  "popularidad": 77
+},
+{
+  "_id": "lg_tf_08",
+  "titulo": "Boys Boys Boys",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 176,
+  "numero_pista": 8,
+  "popularidad": 62
+},
+{
+  "_id": "lg_tf_09",
+  "titulo": "Money Honey",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 193,
+  "numero_pista": 9,
+  "popularidad": 58
+},
+{
+  "_id": "lg_tf_10",
+  "titulo": "Starstruck",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Pop",
+  "duracion_seg": 184,
+  "numero_pista": 10,
+  "popularidad": 55
+}]

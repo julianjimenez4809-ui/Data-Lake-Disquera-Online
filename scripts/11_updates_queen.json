@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "qu_anao_08",
+    "titulo": "Seaside Rendezvous",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Rock",
+    "duracion_seg": 131,
+    "numero_pista": 8,
+    "popularidad": 60
+  },
+  {
+    "_id": "qu_anao_09",
+    "titulo": "The Prophet's Song",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Rock",
+    "duracion_seg": 491,
+    "numero_pista": 9,
+    "popularidad": 72
+  },
+  {
+    "_id": "qu_anao_10",
+    "titulo": "Good Company",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Rock",
+    "duracion_seg": 211,
+    "numero_pista": 10,
+    "popularidad": 58
+  }
+]
