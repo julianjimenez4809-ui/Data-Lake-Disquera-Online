@@ -1,0 +1,110 @@
+[{
+  "_id": "iq_se_01",
+  "titulo": "Yo Quiero Bailar",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 222,
+  "numero_pista": 1,
+  "popularidad": 96
+},
+{
+  "_id": "iq_se_02",
+  "titulo": "Cuentas Claras",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 215,
+  "numero_pista": 2,
+  "popularidad": 88
+},
+{
+  "_id": "iq_se_03",
+  "titulo": "Te He Querido, Te He Llorado",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 234,
+  "numero_pista": 3,
+  "popularidad": 85
+},
+{
+  "_id": "iq_se_04",
+  "titulo": "Dime",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 208,
+  "numero_pista": 4,
+  "popularidad": 82
+},
+{
+  "_id": "iq_se_05",
+  "titulo": "Quiero Más",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 219,
+  "numero_pista": 5,
+  "popularidad": 80
+},
+{
+  "_id": "iq_se_06",
+  "titulo": "Sentimiento",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 241,
+  "numero_pista": 6,
+  "popularidad": 83
+},
+{
+  "_id": "iq_se_07",
+  "titulo": "Noche de Reyes",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 227,
+  "numero_pista": 7,
+  "popularidad": 78
+},
+{
+  "_id": "iq_se_08",
+  "titulo": "Que Lloren",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 198,
+  "numero_pista": 8,
+  "popularidad": 61
+},
+{
+  "_id": "iq_se_09",
+  "titulo": "Tuya Soy",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 214,
+  "numero_pista": 9,
+  "popularidad": 58
+},
+{
+  "_id": "iq_se_10",
+  "titulo": "Pa' que la Pases Bien",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_sentimiento.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 207,
+  "numero_pista": 10,
+  "popularidad": 55
+}]

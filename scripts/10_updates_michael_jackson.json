@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "mj_th_08",
+    "titulo": "Baby Be Mine",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+    "genero": "Pop",
+    "duracion_seg": 260,
+    "numero_pista": 8,
+    "popularidad": 65
+  },
+  {
+    "_id": "mj_th_09",
+    "titulo": "The Lady in My Life",
+    "anio_salida": 1982,
+    "autor": "Michael Jackson",
+    "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+    "genero": "Pop",
+    "duracion_seg": 298,
+    "numero_pista": 9,
+    "popularidad": 63
+  }
+]

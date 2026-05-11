@@ -1,0 +1,11 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad
+lg_tf_01,Just Dance,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,241,1,95
+lg_tf_02,LoveGame,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,200,2,88
+lg_tf_03,Paparazzi,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,214,3,93
+lg_tf_04,Poker Face,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,238,4,99
+lg_tf_05,Eh Eh (Nothing Else I Can Say),2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,193,5,80
+lg_tf_06,Beautiful Dirty Rich,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,181,6,79
+lg_tf_07,The Fame,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,188,7,77
+lg_tf_08,Boys Boys Boys,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,176,8,62
+lg_tf_09,Money Honey,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,193,9,58
+lg_tf_10,Starstruck,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Pop,184,10,55

@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "lg_tf_08",
+    "titulo": "Boys Boys Boys",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Pop",
+    "duracion_seg": 176,
+    "numero_pista": 8,
+    "popularidad": 62
+  },
+  {
+    "_id": "lg_tf_09",
+    "titulo": "Money Honey",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Pop",
+    "duracion_seg": 193,
+    "numero_pista": 9,
+    "popularidad": 58
+  },
+  {
+    "_id": "lg_tf_10",
+    "titulo": "Starstruck",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Pop",
+    "duracion_seg": 184,
+    "numero_pista": 10,
+    "popularidad": 55
+  }
+]

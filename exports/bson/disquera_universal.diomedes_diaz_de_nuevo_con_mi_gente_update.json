@@ -1,0 +1,110 @@
+[{
+  "_id": "dd_dncmg_01",
+  "titulo": "De Nuevo con Mi Gente",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 215,
+  "numero_pista": 1,
+  "popularidad": 94
+},
+{
+  "_id": "dd_dncmg_02",
+  "titulo": "El Carnaval",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 228,
+  "numero_pista": 2,
+  "popularidad": 89
+},
+{
+  "_id": "dd_dncmg_03",
+  "titulo": "La Cañaguatera",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 198,
+  "numero_pista": 3,
+  "popularidad": 97
+},
+{
+  "_id": "dd_dncmg_04",
+  "titulo": "Mi Primera Cana",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 195,
+  "numero_pista": 4,
+  "popularidad": 85
+},
+{
+  "_id": "dd_dncmg_05",
+  "titulo": "Ausencia Sentimental",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 221,
+  "numero_pista": 5,
+  "popularidad": 88
+},
+{
+  "_id": "dd_dncmg_06",
+  "titulo": "A mis Viejos",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 210,
+  "numero_pista": 6,
+  "popularidad": 91
+},
+{
+  "_id": "dd_dncmg_07",
+  "titulo": "Tres Canciones",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 207,
+  "numero_pista": 7,
+  "popularidad": 82
+},
+{
+  "_id": "dd_dncmg_08",
+  "titulo": "El Verano",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 211,
+  "numero_pista": 8,
+  "popularidad": 60
+},
+{
+  "_id": "dd_dncmg_09",
+  "titulo": "El Testamento",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 224,
+  "numero_pista": 9,
+  "popularidad": 57
+},
+{
+  "_id": "dd_dncmg_10",
+  "titulo": "La Cama Vacía",
+  "anio_salida": 1988,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_diaz_de_nuevo_con_mi_gente.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 198,
+  "numero_pista": 10,
+  "popularidad": 54
+}]
