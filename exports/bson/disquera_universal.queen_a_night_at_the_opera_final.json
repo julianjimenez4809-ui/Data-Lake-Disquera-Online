@@ -1,0 +1,88 @@
+[{
+  "_id": "qu_anao_01",
+  "titulo": "Bohemian Rhapsody",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 354,
+  "numero_pista": 1,
+  "popularidad": 100
+},
+{
+  "_id": "qu_anao_02",
+  "titulo": "You're My Best Friend",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 170,
+  "numero_pista": 2,
+  "popularidad": 90
+},
+{
+  "_id": "qu_anao_03",
+  "titulo": "Love of My Life",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 212,
+  "numero_pista": 3,
+  "popularidad": 94
+},
+{
+  "_id": "qu_anao_04",
+  "titulo": "'39",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 208,
+  "numero_pista": 4,
+  "popularidad": 83
+},
+{
+  "_id": "qu_anao_05",
+  "titulo": "Sweet Lady",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 230,
+  "numero_pista": 5,
+  "popularidad": 78
+},
+{
+  "_id": "qu_anao_06",
+  "titulo": "Death on Two Legs",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 228,
+  "numero_pista": 6,
+  "popularidad": 80
+},
+{
+  "_id": "qu_anao_07",
+  "titulo": "I'm in Love with My Car",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 184,
+  "numero_pista": 7,
+  "popularidad": 77
+},
+{
+  "_id": "qu_anao_08",
+  "titulo": "Seaside Rendezvous",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "duracion_seg": 131,
+  "numero_pista": 8,
+  "popularidad": 60
+}]
